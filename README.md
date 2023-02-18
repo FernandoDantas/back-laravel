@@ -16,8 +16,11 @@ Este é um projeto desenvolvido como desafio para o teste de estagio para a empr
 
 - Instalar o composer fazendo download dele seguindo a documentação do site: **[https://getcomposer.org/download](https://getcomposer.org/download)**
 - O projeto foi criado com o comando composer create-project laravel/laravel=^9 back-laravel --prefer-dist
-- Após criar o projeto executar o mesmo abrindo o prompt de comando do windows ou terminal do windows e executar o comando: php artisan serve
+- Após criar o projeto executei o mesmo abrindo o prompt de comando do windows ou terminal do windows e executar o comando: php artisan serve
 - Acessar o projeto no endereço: http://localhost:8000/
+
+Ao baixar pela primeira vez pelo github será necessário instalar todas as depêndencias. Para isso basta executar o comando abaixo:
+- composer install 
 
 Foi criado os controlers e requests com os comandos abaixo:
 - php artisan make:controller HomeController

@@ -22,7 +22,7 @@ Este é um projeto desenvolvido como desafio para o teste de estagio para a empr
 Ao baixar pela primeira vez pelo github será necessário instalar todas as depêndencias. Para isso basta executar o comando abaixo:
 - composer install 
 
-Foi criado os controlers e requests com os comandos abaixo:
+Foi criado os controllers e requests com os comandos abaixo:
 - php artisan make:controller HomeController
 
 Foi criado os models com os seguintes comandos
